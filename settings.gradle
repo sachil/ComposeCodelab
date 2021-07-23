@@ -9,3 +9,4 @@ dependencyResolutionManagement {
 rootProject.name = "ComposeCodelab"
 include ':staggeredgrid'
 include ':todo'
+include ':animation'
